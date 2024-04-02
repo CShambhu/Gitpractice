@@ -1,4 +1,4 @@
 # Gitpractice
 This is my Git practice repository 
-\n
+<br>
 Github - Shambhu Chaudhary 
